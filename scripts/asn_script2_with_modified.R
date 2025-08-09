@@ -5,7 +5,6 @@ dim(seqtable_nochimeras)  ### 20 230
 top5 <- sort(colSums(seqtable_nochimeras), decreasing = TRUE)[1:5]
 top5
 
-
 taxa[names(top5), ]
 
 top5 <- sort(colSums(seqtable_nochimeras), decreasing = TRUE)[1:5]
