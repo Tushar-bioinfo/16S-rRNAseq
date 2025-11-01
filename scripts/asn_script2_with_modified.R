@@ -1,4 +1,4 @@
-##### this is a seperate script which i used to get the specific answers as per the questions given in the asssignment   
+##### this is a seperate script which i used to get the specific answers as per the questions given in the asssignment 
 ncol(seqtable_nochimeras)
 dim(seqtable_nochimeras)  ### 20 230
 
